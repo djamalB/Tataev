@@ -1,0 +1,16 @@
+h1 {
+  width: 230px;
+  text-align: start;
+  line-height: 50px;
+  font-size: 33px;
+  color: white;
+}
+
+.blok {
+  margin-left: 15px;
+  margin-top: 60px;
+}
+
+h1 span {
+  color: rgb(216, 182, 45);
+}

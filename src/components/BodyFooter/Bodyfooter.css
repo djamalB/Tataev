@@ -1,0 +1,19 @@
+.container2 {
+  margin-top: 80px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.href a {
+  font-size: 23px;
+  text-decoration: none;
+  color: rgb(216, 182, 45);
+}
+
+h2 {
+  width: 310px;
+  font-size: 30px;
+  position: relative;
+  top: -23px;
+}
